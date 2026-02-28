@@ -1,0 +1,32 @@
+# Carpeta de VS Code
+.vscode/
+
+# Ejecutables específicos
+programa.exe
+test_runner.exe
+
+# Ejecutables en general
+*.exe
+*.out
+
+# Archivos objeto
+*.o
+*.obj
+
+# Librerías
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*~
+
+# Carpetas de build comunes
+build/
+bin/
+dist/
